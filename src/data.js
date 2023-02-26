@@ -74,9 +74,10 @@ export const footerData = {
     {
       title: 'Podcast',
       links: [
-        { text: 'Episodes', href: './episodes' },
-        { text: 'About', href: './about' },
-        { text: 'Resources', href: './resources' },
+        { text: 'Episodes', href: getBlogPermalink() },
+        { text: 'About', href: getPermalink('/about') },
+        { text: 'Support', href: getPermalink('/support') },
+        { text: 'Resources', href: getPermalink('/resources') },
         { text: 'RSS Feed', href: 'https://storage.googleapis.com/feeds.oncetold.net/80000013.rss' },
         { text: 'Find a Player', href: 'https://podnews.net/podcast/i7h7d' },
       ],
