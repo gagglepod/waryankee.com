@@ -5,7 +5,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ## Civil War Books Worth Reading
 
-War Yankee is an Amazon Affiliate focusing on American Civil War education. When you buy a book from Amazon using these links, the proceeds support the production of the War Yankee podcast. Thank you!
+War Yankee is an **Amazon Affiliate** focusing on American Civil War education. When you buy a book from Amazon using these links, the proceeds support the production of the War Yankee podcast. Thank you!
 
 ### Gordon C. Rhea Series
 
@@ -29,3 +29,9 @@ War Yankee is an Amazon Affiliate focusing on American Civil War education. When
 3. [Grant](https://amzn.to/3QrE5PD)
 4. [Personal Memoirs of Ulysses S. Grant, Audible Audiobook – Unabridged](https://amzn.to/3DeiBm3)
 5. [American Ulysses: A Life of Ulysses S. Grant](https://amzn.to/3L0jdhe)
+
+### Interesting Podcasts
+
+1. [The Emerging Civil War Podcast](https://emergingcivilwar.com/the-emerging-civil-war-podcast/)
+2. [Untold Civil War](https://untoldcivilwar.squarespace.com/)
+3. [1865](https://wondery.com/shows/1865/)
