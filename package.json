@@ -1,7 +1,7 @@
 {
-  "name": "@onwidget/astrowind",
-  "description": "A template to make your website using Astro + Tailwind CSS.",
-  "version": "0.9.8",
+  "name": "waryankee.com",
+  "description": "An American Civil War Podcast focusing on Grants Overland Campaign of 1864.",
+  "version": "3.0.0",
   "private": true,
   "scripts": {
     "dev": "astro dev",
@@ -26,7 +26,7 @@
     "@tailwindcss/typography": "^0.5.9",
     "@typescript-eslint/eslint-plugin": "^5.51.0",
     "@typescript-eslint/parser": "^5.51.0",
-    "astro": "^2.0.10",
+    "astro": "^2.0.15",
     "astro-compress": "^1.1.32",
     "astro-icon": "^0.8.0",
     "eslint": "^8.33.0",
@@ -45,5 +45,8 @@
   },
   "engines": {
     "node": ">=16.12.0"
+  },
+  "dependencies": {
+    "@fontsource/open-sans": "^4.5.14"
   }
 }
