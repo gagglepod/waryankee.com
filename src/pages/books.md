@@ -30,9 +30,3 @@ War Yankee is an **Amazon Affiliate** focusing on American Civil War education. 
 - [No Turning Back: A Guide to the 1864 Overland Campaign](https://amzn.to/3Z75vPO)
 - [Personal Memoirs of Ulysses S. Grant, Audible Audiobook – Unabridged](https://amzn.to/3DeiBm3)
 - [American Ulysses: A Life of Ulysses S. Grant](https://amzn.to/3L0jdhe)
-
-### Interesting Podcasts
-
-- [The Emerging Civil War Podcast](https://emergingcivilwar.com/the-emerging-civil-war-podcast/)
-- [Untold Civil War Podcast](https://untoldcivilwar.squarespace.com/)
-- [1865 - An Audio Drama Podcast](https://wondery.com/shows/1865/)

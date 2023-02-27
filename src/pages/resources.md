@@ -50,6 +50,12 @@ _"The problem with Civil War history is that all the letters home are going to h
 - [“Swearing and Praying” – Medical Care After the Wilderness](https://www.civilwarmed.org/wilderness/)
 - [Legends of America - Grant’s Overland Campaign](https://www.legendsofamerica.com/grants-overland-campaign/)
 
+### Interesting Podcasts
+
+- [The Emerging Civil War Podcast](https://emergingcivilwar.com/the-emerging-civil-war-podcast/)
+- [Untold Civil War Podcast](https://untoldcivilwar.squarespace.com/)
+- [1865 - An Audio Drama Podcast](https://wondery.com/shows/1865/)
+
 ### Images
 
 - [My Personal War Yankee Flickr Photo Album](https://flic.kr/s/aHsmMt4MCC)
