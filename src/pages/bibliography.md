@@ -29,6 +29,8 @@ _"The problem with Civil War history is that all the letters home are going to h
 - [Grand Movement of the Army of the Potomac—Crossing the Rapidan—Entering the Wilderness—Battle of the Wilderness](https://www.bartleby.com/1011/50.html)
 - [Grant's Army, Crossing the Rapidan - Then and Now](https://spotsylvaniacw.blogspot.com/2014/03/grants-army-crossing-rapidan-then-and.html)
 - [Historic Crossings of the Rappahannock and Rapidan Rivers (Volume 32 #3)](https://blueandgraymagazine.com/2016/07/07/historic-crossings-of-the-rappahannock-and-rapidan-rivers/)
+- [Diary of a General from the Battle of the Wilderness and Fortifications at Petersburg](https://www.raabcollection.com/james-lyman-van-buren-autograph/general-jl-van-burens-battle-journal-person-effects)
+- [WILDERNESS- SPOTSYLVANIA STAFF RIDE](https://history.army.mil/staffrides/_docs/staffride_wilderness.pdf)
 
 ### Images
 
