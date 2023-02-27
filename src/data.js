@@ -4,6 +4,10 @@ import { getPermalink, getBlogPermalink } from './utils/permalinks';
 export const headerData = {
   links: [
     {
+      text: 'Episodes',
+      href: getBlogPermalink(),
+    },
+    {
       text: 'About',
       href: getPermalink('/about'),
     },
@@ -62,8 +66,8 @@ export const headerData = {
       href: getPermalink('/resources'),
     },
     {
-      text: 'Episodes',
-      href: getBlogPermalink(),
+      text: 'Bibliography',
+      href: getPermalink('/bibliography'),
     },
   ],
   actions: [{ type: 'button', text: 'Subscribe', href: 'https://podnews.net/podcast/i7h7d' }],
@@ -78,6 +82,7 @@ export const footerData = {
         { text: 'About', href: getPermalink('/about') },
         { text: 'Support', href: getPermalink('/support') },
         { text: 'Resources', href: getPermalink('/resources') },
+        { text: 'Bibliography', href: getPermalink('/bibliography') },
         { text: 'RSS Feed', href: 'https://storage.googleapis.com/feeds.oncetold.net/80000013.rss' },
         { text: 'Find a Player', href: 'https://podnews.net/podcast/i7h7d' },
       ],
