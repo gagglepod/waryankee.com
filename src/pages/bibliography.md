@@ -13,7 +13,7 @@ _"The problem with Civil War history is that all the letters home are going to h
 ### Show Art
 
 - [IMG: Lt. Gen. Ulysses S., Three-Quarter-Length](https://commons.wikimedia.org/wiki/File:Grant,_Lt._Gen._Ulysses_S.,_three-quarter-length,_standing_-_NARA_-_558720.jpg)
-- [IMG: War Yankee v8 Grant Overland 1400x1400](https://waryankee.com/assets/images/war-yankee-v8-grant-overland-1400x1400.jpg)
+- [IMG: War Yankee v8 Grant Overland 1400x1400](https://waryankee.com/assets/war-yankee-v8-grant-overland-1400x1400.jpg)
 
 ### Images
 
