@@ -44,23 +44,3 @@ Meawnhile, while I did manage to complete my real world battlefield tour with th
 It wasn't until I had the opportunity to visit the Vicksburg battlefield in Mississippi that the need to produce _War Yankee_ called to me. I found the exact location that Grant negotiated the surrender of Vicksburg under a tree just off the side of the road. If you blinked you would have miss it, but there it was -- a hidden treasure. That is when I decided to relaunching the show. First, moved the show to my own podcast media hosting company called [Oncetold](https://oncetold) in Fort Worth, Texas. Then I rebuilt the [waryankee.com](https://waryankee.com/) website. Finally, I sat down and wrote the script outlines for 20 new episodes (covering the entire Battle of the Wilderness).
 
 Now, after over a year on hiatus, War Yankee - Overland will returned to podcasting in 2023. All that is left to do is start recording. Wish me luck!
-
-## Support the Show
-
-Every episode is a work of passion that requires a lot of coffee. I research, read, visit, host, mix, edit, and produce every episode myself. I would greatly appreciate it if you could do two things for me:
-
-1. **COFFEE:** If you enjoy this podcast, please consider supporting the show by <a href="https://www.buymeacoffee.com/waryankee" target="_blank">buying me a cup of coffee</a> (or two)!
-2. **FEEDBACK:** Send me a quick note of encouragement at <a href="mailto:thewaryankee@gmail.com" target="_blank">thewaryankee@gmail.com</a>. This keeps me going when times get tough!
-
-**Thank you for taking the time to listen. You are appreciated!**
-
-## Subscribe to War Yankee
-
-- [Podcast Index](https://podcastindex.org/podcast/452056)
-- [Apple Podcasts](https://podcasts.apple.com/us/podcast/war-yankee-overland/id1522169260)
-- [Spotify](https://open.spotify.com/show/11DdsrFO3YzN21OCcUd00b)
-- [Amazon Podcasts](https://music.amazon.com/podcasts/992ad074-6693-4521-b97e-fb46ecfb10fa/war-yankee---overland)
-- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly93YXJ5YW5rZWUubGlic3luLmNvbS9yc3M)
-- [TuneIn](https://tunein.com/podcasts/Education-Podcasts/War-Yankee-p1345650/)
-- [RSS Feed](https://storage.googleapis.com/feeds.oncetold.net/80000013.rss)
-- [Find a Player](https://podnews.net/podcast/i7h7d)
