@@ -72,7 +72,8 @@ export const footerData = {
           text: 'Google Podcasts',
           href: 'https://podcasts.google.com/feed/aHR0cHM6Ly93YXJ5YW5rZWUubGlic3luLmNvbS9yc3M',
         },
-        { text: 'Spotify', href: 'https://open.spotify.com/show/11DdsrFO3YzN21OCcUd00b' },
+        { text: 'Spotify', href: 'https://open.spotify.com/show/0ZUjVf8xGNunKioJR2nGes' },
+        { text: 'Goodpods', href: 'https://goodpods.com/podcasts/war-yankee-overland-118398' },
       ],
     },
     {
