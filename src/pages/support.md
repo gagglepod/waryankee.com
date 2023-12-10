@@ -36,10 +36,10 @@ Do you have friends who are also into Civil War history? Share the podcast by se
 - [Spotify](https://open.spotify.com/show/0ZUjVf8xGNunKioJR2nGes)
 - [Goodpods](https://goodpods.com/podcasts/war-yankee-overland-118398)
 
-## Learn more about War Yankee
+## More Ways to Enjoy War Yankee
 
 - [Find a Player](https://podnews.net/podcast/i7h7d)
-- [Steno Transcription Player](https://podverse.fm/podcast/RuqE6R8WRj3)
+- [Steno Transcription Player](https://www.steno.fm/show/a6f0272c-6f75-5503-845a-cc8966a63bec)
 - [OP3 Stats](https://op3.dev/show/a6f0272c-6f75-5503-845a-cc8966a63bec)
 
 ## Support the American Battlefield Trust
