@@ -12,21 +12,22 @@ _"The problem with Civil War history is that all the letters home are going to h
 
 ### Timeline & Maps
 
+- May 4 - June 12, 1864 — [The Overland Campaign of 1864](https://www.battlefields.org/learn/articles/overland-campaign-1864)
 - May 5–7, 1864 — [Battle of The Wilderness](https://www.battlefields.org/search?algolia_search_index%5Bquery%5D=Battle%20of%20the%20Wilderness)
 - May 8–21 — [Battle of Spotsylvania Court House](https://www.battlefields.org/search?algolia_search_index%5Bquery%5D=Battle%20of%20Spotsylvania%20Court%20House)
-- May 11 — Battle of Yellow Tavern
-- May 23–26 — [Battle of North Anna](https://www.battlefields.org/search?algolia_search_index%5Bquery%5D=Battle%20of%20North%20Anna)
-- May 24 — Battle of Wilson’s Wharf
-- May 28 — Battle of Haw’s Shop
-- May 28–30 — [Battle of Totopotomoy Creek](https://www.battlefields.org/search?algolia_search_index%5Bquery%5D=Battle%20of%20Totopotomoy%20Creek)
-- May 30 — Battle of Old Church
-- May 31–June 12 — [Battle of Cold Harbor](https://www.battlefields.org/search?algolia_search_index%5Bquery%5D=Battle%20of%20Cold%20Harbor)
+- May 11, 1864 — Battle of Yellow Tavern
+- May 23–26, 1864 — [Battle of North Anna](https://www.battlefields.org/search?algolia_search_index%5Bquery%5D=Battle%20of%20North%20Anna)
+- May 24, 1864 — Battle of Wilson’s Wharf
+- May 28, 1864 — Battle of Haw’s Shop
+- May 28–30, 1864 — [Battle of Totopotomoy Creek](https://www.battlefields.org/search?algolia_search_index%5Bquery%5D=Battle%20of%20Totopotomoy%20Creek)
+- May 30, 1864 — Battle of Old Church
+- May 31–June 12, 1864 — [Battle of Cold Harbor](https://www.battlefields.org/search?algolia_search_index%5Bquery%5D=Battle%20of%20Cold%20Harbor)
 - June 9, 1864 — [Siege of Petersburg Begins](https://www.battlefields.org/search?algolia_search_index%5Bquery%5D=Siege%20of%20Petersburg)
 - June 11-12, 1864 — [Battle of Trevilian Station](https://www.battlefields.org/search?algolia_search_index%5Bquery%5D=Battle%20of%20Trevilian%20Station)
 - June 15, 1864 — [Opening of the Petersburg Campaign](https://www.battlefields.org/learn/articles/opening-petersburg-campaign)
-- June 15-18, 1864 - [Assault on Petersburg](https://www.battlefields.org/learn/civil-war/battles/petersburg)
-- September 30 - October 2, 1864 - [Peebles' Farm](https://www.battlefields.org/learn/maps/petersburg-peebles-farm-breakthrough)
-- March - April 1865 - [The Breakthrough](https://www.battlefields.org/learn/maps/petersburg-peebles-farm-breakthrough)
+- June 15-18, 1864 — [Assault on Petersburg](https://www.battlefields.org/learn/civil-war/battles/petersburg)
+- September 30 - October 2, 1864 — [Peebles' Farm](https://www.battlefields.org/learn/maps/petersburg-peebles-farm-breakthrough)
+- March - April 1865 — [The Breakthrough](https://www.battlefields.org/learn/maps/petersburg-peebles-farm-breakthrough)
 - April 2, 1865 — [Siege of Petersburg Ends](https://www.battlefields.org/search?algolia_search_index%5Bquery%5D=Siege%20of%20Petersburg)
 - April 9, 1865 — [Appomattox Court House](https://www.battlefields.org/learn/civil-war/battles/appomattox-court-house)
 
